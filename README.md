@@ -3,6 +3,14 @@
 This repository provides code and scripts to reproduce the experiments reported in our IJCS submission on **SDE-Rank** (Structural–Dynamic–Emotional Rank) for node influence ranking on communication/social networks.
 
 ## Repository structure
+## 快速开始（3分钟复现）
+
+### 1) 安装环境（Windows + Anaconda）
+```bash
+conda create -n sderank python=3.11 -y
+conda activate sderank
+pip install -r requirementss.txt
+
 
 - `run_experiments.py` — main entry to run experiments, baselines, ablations, and sensitivity scans
 - `sde_rank.py` — SDE-Rank implementation
