@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+
+title: "SDE-Rank: Structure–Dynamics–Emotion Influence Ranking (Reproducibility Package)"
+type: software
+version: 1.0.1
+date-released: 2026-02-08
+repository-code: "https://github.com/1665025602-afk/SDE-Rank-TIIS"
+url: "https://github.com/1665025602-afk/SDE-Rank-TIIS"
+
+authors:
+  - family-names: "Lin"
+    given-names: "Beichen"
+    email: "1665025602@qq.com"
+    affiliation: "School of Science, Minzu University of China; Major: Information and Computing Science"
+
+  - family-names: "Xiao"
+    given-names: "Yiwen"
+    email: "xia_oyiwen@126.com"
+    affiliation: "Academy of Foreign Languages and Business, Minjiang Teachers College"
+
+contact:
+  - family-names: "Xiao"
+    given-names: "Yiwen"
+    email: "xia_oyiwen@126.com"
+    affiliation: "Academy of Foreign Languages and Business, Minjiang Teachers College"
+    address: "No. 18 Xinbao Street, Fuzhou, Fujian Province, 350108, China."
+    phone: "+86 15980228609"
