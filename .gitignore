@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 建议：结果放 Release（可选）
+results/
