@@ -1,0 +1,23 @@
+Dataset,Method,RMSE,Top10Overlap,Top50Overlap
+email-eu-core,Degree,0.1836073329545877,0.0,0.08
+email-eu-core,Betweenness,0.188794222982516,0.1,0.06
+email-eu-core,PageRank,0.1924372651405287,0.1,0.04
+email-eu-core,S+E,0.1924372651500238,0.1,0.04
+email-eu-core,S-only,0.1924372651500944,0.1,0.04
+email-eu-core,S+B,0.1948534523670967,0.1,0.04
+email-eu-core,SDE-Rank (S+B+E),0.1954570640330269,0.1,0.04
+email-eu-core,LeaderRank,0.1961368604502939,0.1,0.06
+email-eu-core,Katz,0.2180441344122189,0.1,0.06
+email-eu-core,HITS-Authority,0.226513105394613,0.1,0.06
+email-eu-core,K-core,0.524586060429393,0.0,0.06
+wiki-vote,Degree,0.1607824032840347,0.0,0.02
+wiki-vote,Betweenness,0.1634640069208523,0.0,0.02
+wiki-vote,SDE-Rank (S+B+E),0.1640548022763052,0.0,0.02
+wiki-vote,S+B,0.1641194296700331,0.0,0.02
+wiki-vote,PageRank,0.1649340576502188,0.0,0.02
+wiki-vote,S+E,0.1649340576524925,0.0,0.02
+wiki-vote,S-only,0.1649340576525029,0.0,0.02
+wiki-vote,LeaderRank,0.1654484199420687,0.0,0.02
+wiki-vote,Katz,0.177821061246841,0.0,0.0
+wiki-vote,HITS-Authority,0.1893455686452671,0.0,0.0
+wiki-vote,K-core,0.4161075913953377,0.0,0.02
